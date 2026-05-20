@@ -8,7 +8,7 @@ seo:
   name: CLES 120
 ---
 
-> [!TIP]
+> [!WARNING]
 > Whelp! You're early. This page is still under construction... Nothing to see here.... yet ;)
 
 # CLES120 - Climate Games
