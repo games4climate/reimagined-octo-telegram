@@ -13,7 +13,7 @@ seo:
 
 Instructor: [Prof. Kirabo](https://www.cs.hmc.edu/~kirabo)\
 Department: [Computer Science](https://www.hmc.edu/cs/) & [Hixon Center for Climate and the Environment](https://www.hmc.edu/hixon-center/)\
-Tags: 
+Tags: \
 HCI x Climate
 {: .label }
 
