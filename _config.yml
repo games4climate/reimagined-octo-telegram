@@ -63,18 +63,8 @@ defaults:
     values:
       layout: announcement
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
-
-liquid:
-  error_mode: strict
-  strict_filters: true
-
+# When commented out, callouts_level defaults to quiet for the light scheme, and loud for dark
+# callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
@@ -90,3 +80,17 @@ callouts:
   warning:
     title: Warning
     color: red
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+liquid:
+  error_mode: strict
+  strict_filters: true
+
+
