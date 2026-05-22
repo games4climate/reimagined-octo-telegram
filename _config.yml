@@ -74,3 +74,19 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
